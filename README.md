@@ -6,6 +6,8 @@ Name of S3 Bucket : 1656-assignment2
 Region in which sagemaker instances, bucket are created : ap-south-1
 
 Snapshots
+
+
 Datasets in S3 bucket
 ![aws_assign2_1](https://user-images.githubusercontent.com/59825139/119144679-870ae200-ba66-11eb-8195-b41e6aabcc6f.PNG)
 
